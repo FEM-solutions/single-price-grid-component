@@ -29,6 +29,7 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [https://fem-solutions.github.io/single-price-grid-component](https://fem-solutions.github.io/single-price-grid-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-component-trKgB06_A-](https://www.frontendmentor.io/solutions/single-price-grid-component-trKgB06_A-)
 
 ## My process
 
